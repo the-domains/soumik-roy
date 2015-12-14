@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soumik Roy]]></title>
+        <description><![CDATA[Soumik Roy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 17:20:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Private Wealth Management Middle East Summit in Dubai (United Arab Emirates - UAE - Africa / Middle East)</p>]]></description>
+            <link>undefinedprivate-wealth-management-middle-east-summit-in-dubai-unite/index.html</link>
+            <guid isPermaLink="false">4f9778ba-c1f6-4870-9441-f4c844111c08</guid>
+            <pubDate>Mon, 14 Dec 2015 17:20:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
