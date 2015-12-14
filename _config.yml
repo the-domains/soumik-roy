@@ -1,7 +1,7 @@
 name: Soumik Roy
 favicon: null
-layout_spectrum: 0.0693897302262485
-typography_spectrum: 0.003557237097993493
+layout_spectrum: 0.24283
+typography_spectrum: 0.74148
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#000000'
+    - '#7a5413'
+    - '#b49e7a'
+    - '#d5c9b4'
   brandStrength: 0.9853165184613317
-  lightness: 0.49361208104528487
-  saturation: 0.94753876212053
-  rhythmicContrast: 0.2624042409006506
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
